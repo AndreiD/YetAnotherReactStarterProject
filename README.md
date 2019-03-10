@@ -1,4 +1,4 @@
-# Yet Anohter React Starter Project
+# Yet Another React Starter Project
 
 This project is for "bigger" projects where you need a lot of stuff.
 If you're looking for a smaller, single-page app style, project, suitable for dapps (let's say) then take a look at
